@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rafawat Sholaiman Alphi</h1>
-<h3 align="center">I am a passionate software developer with a knack for creating <Highlight>elegant solutions</Highlight>. I have a strong foundation in various programming languages and frameworks, and I am always eager to learn new technologies. My journey in the tech world started with a curiosity for how things work, and it has grown into a full-fledged career that I am deeply passionate about.</h3>
-<img align=right width=400 src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="max-width: 50%;">
+        <h3 align="left">
+            I am a passionate software developer with a knack for creating 
+            <span style="color: #ff6347; font-weight: bold;">elegant solutions</span>. 
+            I have a strong foundation in various programming languages and frameworks, 
+            and I am always eager to learn new technologies. My journey in the tech 
+            world started with a curiosity for how things work, and it has grown into 
+            a full-fledged career that I am deeply passionate about.
+        </h3>
+    </div>
+    <div>
+        <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+    </div>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphistube&label=Profile%20views&color=0e75b6&style=flat" alt="alphistube" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphistube" alt="alphistube" /></a> </p>
