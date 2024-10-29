@@ -8,12 +8,13 @@
 
 ###
 
-<p align="center">I am a passionate software developer with a knack for creating <br>            <span style="color: #ff6347; font-weight: bold;">elegant solutions</span>.<br>            I have a strong foundation in various programming languages and frameworks, <br>            and I am always eager to learn new technologies. My journey in the tech <br>            world started with a curiosity for how things work, and it has grown into <br>            a full-fledged career that I am deeply passionate about.</p>
+<p align="center">I am a passionate software developer with a knack for creating <br><span style="color: #ff6347; font-weight: bold;">elegant solutions</span>.<be> I have a strong foundation in various programming languages and frameworks, <br> and I am always eager to learn new technologies. My journey in the tech <br>world started with a curiosity for how things work, and it has grown into <br>a full-fledged career that I am deeply passionate about.</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alphistube&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=alphistube&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alphistube&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
