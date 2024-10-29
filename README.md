@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rafawat Sholaiman Alphi</h1>
 <div align="center" style="display: flex; align-items: center; justify-content: space-between;">
     <div style="max-width: 50%;">
-        <h3>
+        <h5>
             I am a passionate software developer with a knack for creating 
             <span style="color: #ff6347; font-weight: bold;">elegant solutions</span>. 
             I have a strong foundation in various programming languages and frameworks, 
             and I am always eager to learn new technologies. My journey in the tech 
             world started with a curiosity for how things work, and it has grown into 
             a full-fledged career that I am deeply passionate about.
-        </h3>
+        </h5>
     </div>
     <div>
         <img width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
