@@ -13,9 +13,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphistube&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=alphistube&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alphistube&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=alphistube&show_icons=true&locale=en&theme=react" alt="Rahulfordev" height="192px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alphistube&show_icons=true&locale=en&layout=compact&theme=react" alt="Rahulfordev" height="192px"/>
+   <img width="800" height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alphistube&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 ###
@@ -30,7 +30,7 @@
 
 ###
 
-<div align="left">
+<div align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
