@@ -19,44 +19,19 @@ I'm a software developer who loves building things, from games and 3D web experi
 
 **Languages**
 
-<img src="assets/icons/javascript.svg" width="44" alt="JavaScript" title="JavaScript">
-<img src="assets/icons/typescript.svg" width="44" alt="TypeScript" title="TypeScript">
-<img src="assets/icons/python.svg" width="44" alt="Python" title="Python">
-<img src="assets/icons/csharp.svg" width="44" alt="C#" title="C#">
-<img src="assets/icons/cplusplus.svg" width="44" alt="C++" title="C++">
-<img src="assets/icons/java.svg" width="44" alt="Java" title="Java">
-<img src="assets/icons/kotlin.svg" width="44" alt="Kotlin" title="Kotlin">
-<img src="assets/icons/dart.svg" width="44" alt="Dart" title="Dart">
-<img src="assets/icons/html5.svg" width="44" alt="HTML5" title="HTML5">
-<img src="assets/icons/css3.svg" width="44" alt="CSS3" title="CSS3">
+<p><img src="assets/icons/javascript.svg" width="44" alt="JavaScript" title="JavaScript"> <img src="assets/icons/typescript.svg" width="44" alt="TypeScript" title="TypeScript"> <img src="assets/icons/python.svg" width="44" alt="Python" title="Python"> <img src="assets/icons/csharp.svg" width="44" alt="C#" title="C#"> <img src="assets/icons/cplusplus.svg" width="44" alt="C++" title="C++"> <img src="assets/icons/java.svg" width="44" alt="Java" title="Java"> <img src="assets/icons/kotlin.svg" width="44" alt="Kotlin" title="Kotlin"> <img src="assets/icons/dart.svg" width="44" alt="Dart" title="Dart"> <img src="assets/icons/html5.svg" width="44" alt="HTML5" title="HTML5"> <img src="assets/icons/css3.svg" width="44" alt="CSS3" title="CSS3"></p>
 
 **Frameworks and engines**
 
-<img src="assets/icons/react.svg" width="44" alt="React" title="React">
-<img src="assets/icons/nextjs.svg" width="44" alt="Next.js" title="Next.js">
-<img src="assets/icons/django.svg" width="44" alt="Django" title="Django">
-<img src="assets/icons/flutter.svg" width="44" alt="Flutter" title="Flutter">
-<img src="assets/icons/androidstudio.svg" width="44" alt="Android Studio" title="Android Studio">
-<img src="assets/icons/unity.svg" width="44" alt="Unity" title="Unity">
-<img src="assets/icons/unrealengine.svg" width="44" alt="Unreal Engine" title="Unreal Engine">
-<img src="assets/icons/godot.svg" width="44" alt="Godot" title="Godot">
+<p><img src="assets/icons/react.svg" width="44" alt="React" title="React"> <img src="assets/icons/nextjs.svg" width="44" alt="Next.js" title="Next.js"> <img src="assets/icons/django.svg" width="44" alt="Django" title="Django"> <img src="assets/icons/flutter.svg" width="44" alt="Flutter" title="Flutter"> <img src="assets/icons/androidstudio.svg" width="44" alt="Android Studio" title="Android Studio"> <img src="assets/icons/unity.svg" width="44" alt="Unity" title="Unity"> <img src="assets/icons/unrealengine.svg" width="44" alt="Unreal Engine" title="Unreal Engine"> <img src="assets/icons/godot.svg" width="44" alt="Godot" title="Godot"></p>
 
 **AI, data and hardware**
 
-<img src="assets/icons/tensorflow.svg" width="44" alt="TensorFlow" title="TensorFlow">
-<img src="assets/icons/pytorch.svg" width="44" alt="PyTorch" title="PyTorch">
-<img src="assets/icons/pandas.svg" width="44" alt="pandas" title="pandas">
-<img src="assets/icons/opencv.svg" width="44" alt="OpenCV" title="OpenCV">
-<img src="assets/icons/opengl.svg" width="44" alt="OpenGL" title="OpenGL">
-<img src="assets/icons/arduino.svg" width="44" alt="Arduino" title="Arduino">
+<p><img src="assets/icons/tensorflow.svg" width="44" alt="TensorFlow" title="TensorFlow"> <img src="assets/icons/pytorch.svg" width="44" alt="PyTorch" title="PyTorch"> <img src="assets/icons/pandas.svg" width="44" alt="pandas" title="pandas"> <img src="assets/icons/opencv.svg" width="44" alt="OpenCV" title="OpenCV"> <img src="assets/icons/opengl.svg" width="44" alt="OpenGL" title="OpenGL"> <img src="assets/icons/arduino.svg" width="44" alt="Arduino" title="Arduino"></p>
 
 **Design and 3D**
 
-<img src="assets/icons/photoshop.svg" width="44" alt="Photoshop" title="Photoshop">
-<img src="assets/icons/illustrator.svg" width="44" alt="Illustrator" title="Illustrator">
-<img src="assets/icons/aftereffects.svg" width="44" alt="After Effects" title="After Effects">
-<img src="assets/icons/premierepro.svg" width="44" alt="Premiere Pro" title="Premiere Pro">
-<img src="assets/icons/blender.svg" width="44" alt="Blender" title="Blender">
+<p><img src="assets/icons/photoshop.svg" width="44" alt="Photoshop" title="Photoshop"> <img src="assets/icons/illustrator.svg" width="44" alt="Illustrator" title="Illustrator"> <img src="assets/icons/aftereffects.svg" width="44" alt="After Effects" title="After Effects"> <img src="assets/icons/premierepro.svg" width="44" alt="Premiere Pro" title="Premiere Pro"> <img src="assets/icons/blender.svg" width="44" alt="Blender" title="Blender"></p>
 
 ## GitHub activity
 
@@ -81,5 +56,4 @@ I'm a software developer who loves building things, from games and 3D web experi
 
 ## Let's connect
 
-<a href="mailto:rsalphi@gmail.com"><img src="assets/btn-email.svg" height="36" alt="Email: rsalphi@gmail.com"></a>
-<a href="https://www.linkedin.com/in/rafawat-alphi/"><img src="assets/btn-linkedin.svg" height="36" alt="LinkedIn"></a>
+<p><a href="mailto:rsalphi@gmail.com"><img src="assets/btn-email.svg" height="36" alt="Email: rsalphi@gmail.com"></a> <a href="https://www.linkedin.com/in/rafawat-alphi/"><img src="assets/btn-linkedin.svg" height="36" alt="LinkedIn"></a></p>
