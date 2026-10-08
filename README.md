@@ -1,138 +1,85 @@
-<h2 align="left">Hi 👋! My name is Rafawat Sholaiman Alphi</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/main/assets/banner-light.svg">
+  <img alt="Hi there, I'm Rafawat Sholaiman Alphi" src="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/main/assets/banner-dark.svg" width="100%">
+</picture>
 
-###
+## About me
 
-<div align="center">
-  <img height="100%" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
-</div>
+I'm a software developer who loves building things, from games and 3D web experiences to mobile apps, machine learning projects and even robotic hardware. It all started with curiosity about how things work, and it grew into a career I'm genuinely passionate about. I'm always learning something new.
 
-###
+- 🎮 **Games**: Unity, Unreal and Godot ([open-world survival](https://github.com/ALPHISTUBE/Unity-Open_world_survival), [Godot first game](https://github.com/ALPHISTUBE/Godot-First_Game))
+- 🌐 **Web**: React, Next.js and interactive 3D on the web ([3D car game](https://github.com/ALPHISTUBE/web_3d_car_game), [3D item viewer](https://github.com/ALPHISTUBE/3d_item_view))
+- 📱 **Mobile**: Flutter and Kotlin ([Skido](https://github.com/ALPHISTUBE/Skido))
+- 🤖 **AI and vision**: TensorFlow, PyTorch and OpenCV ([data extraction AI](https://github.com/ALPHISTUBE/Data_extraction_AI))
+- 🔧 **Hardware**: Arduino ([robotic hand](https://github.com/ALPHISTUBE/arduino_robotic_hand))
+- 🎨 **Motion and 3D design**: Adobe suite and Blender
 
-<p align="center">I am a passionate software developer with a knack for creating <br><span style="color: #ff6347; font-weight: bold;">elegant solutions</span>.<be> I have a strong foundation in various programming languages and frameworks, <br> and I am always eager to learn new technologies. My journey in the tech <br>world started with a curiosity for how things work, and it has grown into <br>a full-fledged career that I am deeply passionate about.</p>
+## Tech stack
 
-###
+**Languages**
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alphistube&show_icons=true&locale=en&theme=react" alt="Rahulfordev" height="192px"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alphistube&show_icons=true&locale=en&layout=compact&theme=react" alt="Rahulfordev" height="192px"/>
-   <img width="800" height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=alphistube&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
+<img src="assets/icons/javascript.svg" width="44" alt="JavaScript" title="JavaScript">
+<img src="assets/icons/typescript.svg" width="44" alt="TypeScript" title="TypeScript">
+<img src="assets/icons/python.svg" width="44" alt="Python" title="Python">
+<img src="assets/icons/csharp.svg" width="44" alt="C#" title="C#">
+<img src="assets/icons/cplusplus.svg" width="44" alt="C++" title="C++">
+<img src="assets/icons/java.svg" width="44" alt="Java" title="Java">
+<img src="assets/icons/kotlin.svg" width="44" alt="Kotlin" title="Kotlin">
+<img src="assets/icons/dart.svg" width="44" alt="Dart" title="Dart">
+<img src="assets/icons/html5.svg" width="44" alt="HTML5" title="HTML5">
+<img src="assets/icons/css3.svg" width="44" alt="CSS3" title="CSS3">
 
-###
+**Frameworks and engines**
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/alphistube/count.svg?"  />
-</div>
+<img src="assets/icons/react.svg" width="44" alt="React" title="React">
+<img src="assets/icons/nextjs.svg" width="44" alt="Next.js" title="Next.js">
+<img src="assets/icons/django.svg" width="44" alt="Django" title="Django">
+<img src="assets/icons/flutter.svg" width="44" alt="Flutter" title="Flutter">
+<img src="assets/icons/androidstudio.svg" width="44" alt="Android Studio" title="Android Studio">
+<img src="assets/icons/unity.svg" width="44" alt="Unity" title="Unity">
+<img src="assets/icons/unrealengine.svg" width="44" alt="Unreal Engine" title="Unreal Engine">
+<img src="assets/icons/godot.svg" width="44" alt="Godot" title="Godot">
 
-###
+**AI, data and hardware**
 
-<h3 align="left">Skills</h3>
+<img src="assets/icons/tensorflow.svg" width="44" alt="TensorFlow" title="TensorFlow">
+<img src="assets/icons/pytorch.svg" width="44" alt="PyTorch" title="PyTorch">
+<img src="assets/icons/pandas.svg" width="44" alt="pandas" title="pandas">
+<img src="assets/icons/opencv.svg" width="44" alt="OpenCV" title="OpenCV">
+<img src="assets/icons/opengl.svg" width="44" alt="OpenGL" title="OpenGL">
+<img src="assets/icons/arduino.svg" width="44" alt="Arduino" title="Arduino">
 
-###
+**Design and 3D**
 
-<div align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+<img src="assets/icons/photoshop.svg" width="44" alt="Photoshop" title="Photoshop">
+<img src="assets/icons/illustrator.svg" width="44" alt="Illustrator" title="Illustrator">
+<img src="assets/icons/aftereffects.svg" width="44" alt="After Effects" title="After Effects">
+<img src="assets/icons/premierepro.svg" width="44" alt="Premiere Pro" title="Premiere Pro">
+<img src="assets/icons/blender.svg" width="44" alt="Blender" title="Blender">
 
-###
+## GitHub activity
 
-<h3 align="left">Frameworks</h3>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/output/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/output/stats-light.svg">
+    <img alt="GitHub stats" src="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/output/stats-dark.svg" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/output/langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/output/langs-light.svg">
+    <img alt="Top languages" src="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/output/langs-dark.svg" width="49%">
+  </picture>
+</p>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/output/snake-light.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ALPHISTUBE/ALPHISTUBE/output/snake-dark.svg" width="100%">
+</picture>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="30" alt="godot logo"  />
-</div>
+## Let's connect
 
-###
-
-<h3 align="left">Softwares</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-</div>
-
-###
-
-<h3 align="left">Other</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" height="30" alt="opengl logo"  />
-</div>
-
-###
-
-<h3 align="left">Social Links</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=rsalphi@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/rafawat-alphi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alphistube/alphistube/output/snake.svg" alt="Snake animation" />
-
-###
+<a href="mailto:rsalphi@gmail.com"><img src="assets/btn-email.svg" height="36" alt="Email: rsalphi@gmail.com"></a>
+<a href="https://www.linkedin.com/in/rafawat-alphi/"><img src="assets/btn-linkedin.svg" height="36" alt="LinkedIn"></a>

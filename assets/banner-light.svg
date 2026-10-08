@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Rafawat Sholaiman Alphi: Software Developer, Game Developer, Web &amp; Mobile Developer, ML &amp; Computer Vision Tinkerer">
+<title>Rafawat Sholaiman Alphi</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f6f8fa"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0891b2"/><stop offset="1" stop-color="#7c3aed"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#7c3aed" stop-opacity="0.22"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.2" fill="#d0d7de"/>
+  </pattern>
+</defs>
+<style>
+  .greet { font: 500 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #59636e; }
+  .name { font: 800 56px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; letter-spacing: -1px; }
+  .role { font: 600 22px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #1f2328; }
+  .prompt { font: 600 22px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #0891b2; }
+  .rise { animation: rise .8s ease-out backwards; }
+  @keyframes rise { from { opacity: 0; transform: translateY(12px); } }
+  .spin { transform-origin: 1010px 150px; animation: spin linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .pulse { transform-origin: 1010px 150px; animation: pulse 4s ease-in-out infinite; }
+  @keyframes pulse { 50% { transform: scale(1.12); } }
+  @keyframes reveal0 {
+  0% { transform: translateX(0.0px); }
+  0.000% { transform: translateX(0.0px); animation-timing-function: steps(18, end); }
+  8.333% { transform: translateX(234.0px); }
+  20.139% { transform: translateX(234.0px); animation-timing-function: steps(18, end); }
+  24.306% { transform: translateX(0.0px); }
+  24.375%, 100% { transform: translateX(0.0px); }
+}
+@keyframes cursor0 {
+  0% { transform: translateX(0.0px); opacity: 0; }
+  0.000% { transform: translateX(0.0px); opacity: 1; animation-timing-function: steps(18, end); }
+  8.333% { transform: translateX(234.0px); opacity: 1; }
+  20.139% { transform: translateX(234.0px); opacity: 1; animation-timing-function: steps(18, end); }
+  24.306% { transform: translateX(0.0px); opacity: 1; }
+  24.375%, 100% { transform: translateX(0.0px); opacity: 0; }
+}
+.clip0 { animation: reveal0 14.4s infinite; }
+.cur0 { opacity: 0; animation: cursor0 14.4s infinite; }
+  @keyframes reveal1 {
+  0%, 24.931% { transform: translateX(0.0px); }
+  25.000% { transform: translateX(0.0px); animation-timing-function: steps(14, end); }
+  33.333% { transform: translateX(182.0px); }
+  45.139% { transform: translateX(182.0px); animation-timing-function: steps(14, end); }
+  49.306% { transform: translateX(0.0px); }
+  49.375%, 100% { transform: translateX(0.0px); }
+}
+@keyframes cursor1 {
+  0%, 24.931% { transform: translateX(0.0px); opacity: 0; }
+  25.000% { transform: translateX(0.0px); opacity: 1; animation-timing-function: steps(14, end); }
+  33.333% { transform: translateX(182.0px); opacity: 1; }
+  45.139% { transform: translateX(182.0px); opacity: 1; animation-timing-function: steps(14, end); }
+  49.306% { transform: translateX(0.0px); opacity: 1; }
+  49.375%, 100% { transform: translateX(0.0px); opacity: 0; }
+}
+.clip1 { animation: reveal1 14.4s infinite; }
+.cur1 { opacity: 0; animation: cursor1 14.4s infinite; }
+  @keyframes reveal2 {
+  0%, 49.931% { transform: translateX(0.0px); }
+  50.000% { transform: translateX(0.0px); animation-timing-function: steps(22, end); }
+  58.333% { transform: translateX(286.0px); }
+  70.139% { transform: translateX(286.0px); animation-timing-function: steps(22, end); }
+  74.306% { transform: translateX(0.0px); }
+  74.375%, 100% { transform: translateX(0.0px); }
+}
+@keyframes cursor2 {
+  0%, 49.931% { transform: translateX(0.0px); opacity: 0; }
+  50.000% { transform: translateX(0.0px); opacity: 1; animation-timing-function: steps(22, end); }
+  58.333% { transform: translateX(286.0px); opacity: 1; }
+  70.139% { transform: translateX(286.0px); opacity: 1; animation-timing-function: steps(22, end); }
+  74.306% { transform: translateX(0.0px); opacity: 1; }
+  74.375%, 100% { transform: translateX(0.0px); opacity: 0; }
+}
+.clip2 { animation: reveal2 14.4s infinite; }
+.cur2 { opacity: 0; animation: cursor2 14.4s infinite; }
+  @keyframes reveal3 {
+  0%, 74.931% { transform: translateX(0.0px); }
+  75.000% { transform: translateX(0.0px); animation-timing-function: steps(29, end); }
+  83.333% { transform: translateX(377.0px); }
+  95.139% { transform: translateX(377.0px); animation-timing-function: steps(29, end); }
+  99.306% { transform: translateX(0.0px); }
+  99.375%, 100% { transform: translateX(0.0px); }
+}
+@keyframes cursor3 {
+  0%, 74.931% { transform: translateX(0.0px); opacity: 0; }
+  75.000% { transform: translateX(0.0px); opacity: 1; animation-timing-function: steps(29, end); }
+  83.333% { transform: translateX(377.0px); opacity: 1; }
+  95.139% { transform: translateX(377.0px); opacity: 1; animation-timing-function: steps(29, end); }
+  99.306% { transform: translateX(0.0px); opacity: 1; }
+  99.375%, 100% { transform: translateX(0.0px); opacity: 0; }
+}
+.clip3 { animation: reveal3 14.4s infinite; }
+.cur3 { opacity: 0; animation: cursor3 14.4s infinite; }
+  @media (prefers-reduced-motion: reduce) { .rise, .spin, .pulse { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="url(#bg)" stroke="#d0d7de"/>
+<rect x="760" y="1" width="439" height="298" fill="url(#dots)" opacity="0.7"/>
+
+<circle cx="1010" cy="150" r="150" fill="url(#glow)" class="pulse"/>
+<circle cx="1010" cy="150" r="58" fill="none" stroke="#d0d7de" stroke-dasharray="none"/>
+<g class="spin" style="animation-duration:9s;animation-delay:-0.9s;">
+  <circle cx="1068" cy="150" r="5" fill="url(#accent)"/>
+</g>
+<circle cx="1010" cy="150" r="92" fill="none" stroke="#d0d7de" stroke-dasharray="4 6"/>
+<g class="spin" style="animation-duration:15s;animation-delay:-6.8s;animation-direction:reverse;">
+  <circle cx="1102" cy="150" r="6" fill="url(#accent)"/>
+</g>
+<circle cx="1010" cy="150" r="126" fill="none" stroke="#d0d7de" stroke-dasharray="none"/>
+<g class="spin" style="animation-duration:24s;animation-delay:-18.0s;">
+  <circle cx="1136" cy="150" r="4" fill="url(#accent)"/>
+</g>
+<g transform="translate(1010 150)">
+  <rect x="-30" y="-30" width="60" height="60" rx="16" fill="url(#accent)"/>
+  <text x="0" y="9" text-anchor="middle" style="font: 700 26px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #ffffff;">&lt;/&gt;</text>
+</g>
+
+<g class="rise"><text x="64" y="104" class="greet">Hi there, I'm</text></g>
+<g class="rise" style="animation-delay:.15s"><text x="62" y="168" class="name" fill="url(#accent)">Rafawat Sholaiman Alphi</text></g>
+<g class="rise" style="animation-delay:.3s">
+  <text x="34" y="214" class="prompt">›</text>
+  <clipPath id="clip0"><rect class="clip0" x="-170" y="188" width="234" height="36"/></clipPath>
+<text x="64" y="214" class="role" clip-path="url(#clip0)" textLength="234.0" lengthAdjust="spacing">Software Developer</text>
+<rect class="cur0" x="66" y="194" width="3" height="26" rx="1" fill="#0891b2"/>
+  <clipPath id="clip1"><rect class="clip1" x="-118" y="188" width="182" height="36"/></clipPath>
+<text x="64" y="214" class="role" clip-path="url(#clip1)" textLength="182.0" lengthAdjust="spacing">Game Developer</text>
+<rect class="cur1" x="66" y="194" width="3" height="26" rx="1" fill="#0891b2"/>
+  <clipPath id="clip2"><rect class="clip2" x="-222" y="188" width="286" height="36"/></clipPath>
+<text x="64" y="214" class="role" clip-path="url(#clip2)" textLength="286.0" lengthAdjust="spacing">Web &amp; Mobile Developer</text>
+<rect class="cur2" x="66" y="194" width="3" height="26" rx="1" fill="#0891b2"/>
+  <clipPath id="clip3"><rect class="clip3" x="-313" y="188" width="377" height="36"/></clipPath>
+<text x="64" y="214" class="role" clip-path="url(#clip3)" textLength="377.0" lengthAdjust="spacing">ML &amp; Computer Vision Tinkerer</text>
+<rect class="cur3" x="66" y="194" width="3" height="26" rx="1" fill="#0891b2"/>
+</g>
+<rect x="64" y="244" width="72" height="4" rx="2" fill="url(#accent)" class="rise" style="animation-delay:.45s"/>
+</svg>

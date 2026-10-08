@@ -1,0 +1,59 @@
+name: Update profile cards
+
+# Builds the stats cards and contribution snake, then publishes them to the
+# `output` branch that README.md loads its images from. Everything runs inside
+# this repo's own Actions, so no external stats service can break the profile.
+
+on:
+  schedule:
+    - cron: "17 */12 * * *" # every 12 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate-stats.mjs"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate stats cards
+        run: node scripts/generate-stats.mjs dist
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          # Optional: add a PROFILE_TOKEN secret (classic PAT, read:user) to
+          # include private-repo activity. Falls back to the built-in token.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg?palette=github-dark
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
