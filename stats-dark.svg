@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img" aria-label="GitHub Stats">
+<title>GitHub Stats</title>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+</defs>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .title { font-size: 15px; font-weight: 600; fill: #e6edf3; }
+  .big { font-size: 26px; font-weight: 700; fill: #e6edf3; }
+  .value { font-size: 15px; font-weight: 600; fill: #e6edf3; }
+  .label { font-size: 11.5px; font-weight: 400; fill: #8b949e; }
+  .fade { animation: fade .5s ease-out backwards; }
+  @keyframes fade { from { opacity: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="439" height="209" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="24" y="22" width="4" height="16" rx="2" fill="url(#accent)"/>
+<text x="36" y="35" class="title">GitHub Stats</text>
+<g class="fade" style="animation-delay:0ms" transform="translate(24 62)">
+  <text y="0" class="label">Contributions</text>
+  <text y="34" class="big">2,595<tspan dx="7" class="label">all time</tspan></text>
+</g>
+<g class="fade" style="animation-delay:120ms" transform="translate(154.66666666666666 62)">
+  <text y="0" class="label">Current streak</text>
+  <text y="34" class="big">4<tspan dx="7" class="label">days</tspan></text>
+</g>
+<g class="fade" style="animation-delay:240ms" transform="translate(285.3333333333333 62)">
+  <text y="0" class="label">Longest streak</text>
+  <text y="34" class="big">32<tspan dx="7" class="label">days</tspan></text>
+</g>
+<line x1="24" x2="416" y1="122" y2="122" stroke="#30363d"/>
+<g class="fade" style="animation-delay:360ms" transform="translate(24 154)">
+  <text y="0" class="value">1,614</text>
+  <text y="20" class="label">Commits (yr)</text>
+</g>
+<g class="fade" style="animation-delay:440ms" transform="translate(122 154)">
+  <text y="0" class="value">0</text>
+  <text y="20" class="label">Pull requests</text>
+</g>
+<g class="fade" style="animation-delay:520ms" transform="translate(220 154)">
+  <text y="0" class="value">0</text>
+  <text y="20" class="label">Issues</text>
+</g>
+<g class="fade" style="animation-delay:600ms" transform="translate(318 154)">
+  <text y="0" class="value">0</text>
+  <text y="20" class="label">Stars</text>
+</g>
+</svg>
