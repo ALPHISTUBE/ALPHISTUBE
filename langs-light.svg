@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img" aria-label="Top Languages">
+<title>Top Languages</title>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0891b2"/><stop offset="1" stop-color="#7c3aed"/>
+  </linearGradient>
+</defs>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .title { font-size: 15px; font-weight: 600; fill: #1f2328; }
+  .big { font-size: 26px; font-weight: 700; fill: #1f2328; }
+  .value { font-size: 15px; font-weight: 600; fill: #1f2328; }
+  .label { font-size: 11.5px; font-weight: 400; fill: #59636e; }
+  .fade { animation: fade .5s ease-out backwards; }
+  @keyframes fade { from { opacity: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="439" height="209" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="24" y="22" width="4" height="16" rx="2" fill="url(#accent)"/>
+<text x="36" y="35" class="title">Top Languages</text>
+<clipPath id="bar"><rect x="24" y="58" width="392" height="10" rx="5"/></clipPath>
+<rect x="24" y="58" width="392" height="10" rx="5" fill="#eaeef2"/>
+<g clip-path="url(#bar)"><rect x="24.00" y="58" width="104.48" height="10" fill="#e34c26"/><rect x="128.48" y="58" width="94.88" height="10" fill="#7355dd"/><rect x="223.36" y="58" width="80.98" height="10" fill="#3572A5"/><rect x="304.34" y="58" width="62.36" height="10" fill="#f1e05a"/><rect x="366.70" y="58" width="23.18" height="10" fill="#663399"/><rect x="389.89" y="58" width="7.60" height="10" fill="#dd1100"/><rect x="397.49" y="58" width="18.51" height="10" fill="#59636e"/></g>
+<g class="fade" style="animation-delay:0ms" transform="translate(24 96)">
+  <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
+  <text x="18" y="0" class="value" style="font-size:13px">HTML</text>
+  <text x="176" y="0" class="label" text-anchor="end">26.7%</text>
+</g>
+<g class="fade" style="animation-delay:70ms" transform="translate(220 96)">
+  <circle cx="5" cy="-4" r="5" fill="#7355dd"/>
+  <text x="18" y="0" class="value" style="font-size:13px">C#</text>
+  <text x="176" y="0" class="label" text-anchor="end">24.2%</text>
+</g>
+<g class="fade" style="animation-delay:140ms" transform="translate(24 124)">
+  <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
+  <text x="18" y="0" class="value" style="font-size:13px">Python</text>
+  <text x="176" y="0" class="label" text-anchor="end">20.7%</text>
+</g>
+<g class="fade" style="animation-delay:210ms" transform="translate(220 124)">
+  <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
+  <text x="18" y="0" class="value" style="font-size:13px">JavaScript</text>
+  <text x="176" y="0" class="label" text-anchor="end">15.9%</text>
+</g>
+<g class="fade" style="animation-delay:280ms" transform="translate(24 152)">
+  <circle cx="5" cy="-4" r="5" fill="#663399"/>
+  <text x="18" y="0" class="value" style="font-size:13px">CSS</text>
+  <text x="176" y="0" class="label" text-anchor="end">5.9%</text>
+</g>
+<g class="fade" style="animation-delay:350ms" transform="translate(220 152)">
+  <circle cx="5" cy="-4" r="5" fill="#dd1100"/>
+  <text x="18" y="0" class="value" style="font-size:13px">Mathematica</text>
+  <text x="176" y="0" class="label" text-anchor="end">1.9%</text>
+</g>
+<g class="fade" style="animation-delay:420ms" transform="translate(24 180)">
+  <circle cx="5" cy="-4" r="5" fill="#59636e"/>
+  <text x="18" y="0" class="value" style="font-size:13px">Other</text>
+  <text x="176" y="0" class="label" text-anchor="end">4.7%</text>
+</g>
+</svg>
